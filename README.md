@@ -1,8 +1,6 @@
 # Image-Processing-Tutor
 A standalone windows only application.
 
-Copy the file and save it.
-
 ## Implementations
 
 1. Open command prompt
