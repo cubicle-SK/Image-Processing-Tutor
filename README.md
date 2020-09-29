@@ -13,4 +13,4 @@ Copy the file and save it.
 You can share it to anyone irrespective of whether that person have Python in their system or not
 
 ## Firstlook
-![result](FIRST.png)
+![r](FIRST.png)![r](Image_first.png)![r](DICOM_first.png)
