@@ -12,5 +12,9 @@ Copy the file and save it.
 
 You can share it to anyone irrespective of whether that person have Python in their system or not
 
-## Firstlook
-![r](FIRST.png)![r](Image_first.png)![r](DICOM_first.png)
+# First Look
+![r](FIRST.png)
+## After browsing Image file
+![r](Image_first.png)
+## After browsing DICOM file
+![r](DICOM_first.png)
